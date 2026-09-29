@@ -9,3 +9,5 @@
 -clear               nettois tout
 -fakehack            affiche des faux hack
 
+Plus de commandes arriverons 
+
