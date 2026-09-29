@@ -11,3 +11,5 @@
                               
 Plus de commandes arriverons 
 
+## La commande -fakehack ne fonction pas encore
+
